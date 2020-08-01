@@ -24,30 +24,27 @@ $ git clone https://github.com/ArthurPaes/ChatBox.git
 ### Setup
 > Enter the folder:
 ```shell
-$ cd GoFinances
+$ cd ChatBox
 ```
 >Enter the back-end and install the dependecies using yarn:
 ```shell
-$ cd BackEnd
+$ cd server
 $ yarn
 ```
 >Start the back-end:
 ```shell
-$ yarn dev:server
+$ yarn start
 ```
 
 >Enter the front-end and install the dependecies using yarn:
 ```shell
-$ cd FrontEnd
+$ cd client
 $ yarn
 ```
 >Start the front-end:
 ```shell
 $ yarn start
 ```
-
-### In progress
-Toast messages
 
 
 
